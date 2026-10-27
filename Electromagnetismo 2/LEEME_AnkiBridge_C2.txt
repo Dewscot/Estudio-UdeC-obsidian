@@ -1,0 +1,66 @@
+ACTUALIZACIÓN DE NOTAS + ANKI BRIDGE — Electromagnetismo II
+=======================================================
+
+QUÉ HACE
+- Añade 7 tarjetas nuevas a las 3 notas ya existentes dentro de Conceptos.
+- Mantiene intacto el contenido de las notas y la tarjeta de prueba.
+- No duplica literalmente las 10 tarjetas creadas antes mediante TSV.
+- Añade una regla a .gitignore para no publicar futuros cambios en
+  .obsidian-anki-bridge/data.json (registro de asociación con Anki).
+- Hace respaldo de las 3 notas, el .gitignore y el registro en
+  ~/AnkiBridge-Respaldos/<fecha>, fuera de la bóveda.
+- NO borra, importa ni modifica las tarjetas directamente en Anki.
+
+PASOS (WINDOWS)
+1. Cierra Obsidian para evitar cambios simultáneos durante la edición.
+2. Coloca el archivo aplicar_tarjetas_anki_bridge.py en la carpeta raíz de
+   tu bóveda (junto a .gitignore, Conceptos, Plantillas, etc.).
+3. Abre esa carpeta en VS Code y una terminal PowerShell. Ejecuta:
+
+     python .\aplicar_tarjetas_anki_bridge.py
+
+   O desde cualquier carpeta, pasando la ruta de la bóveda:
+
+     python aplicar_tarjetas_anki_bridge.py "C:\ruta\a\tu\boveda"
+
+4. Si vas a dejar de publicar el registro (recomendado para el repo público),
+   ejecuta los comandos de Git indicados abajo ANTES de reabrir Obsidian,
+   para que Obsidian Git no publique de nuevo el registro por accidente.
+5. Vuelve a abrir Obsidian y Anki; Anki Bridge debe sincronizar las nuevas
+   tarjetas automáticamente. Compruébalas desde el Explorador de Anki.
+6. Comprueba que sigue existiendo el mazo con tus 10 tarjetas anteriores.
+7. Después de sincronizar las 7 nuevas tarjetas, haz un NUEVO respaldo
+   privado de .obsidian-anki-bridge/data.json: ahora guarda sus identidades.
+
+GIT: IMPORTANTE
+- Ya hay un archivo .obsidian-anki-bridge/data.json PUBLICADO y SEGUIDO por Git.
+- Escribirlo en .gitignore NO lo despublica: primero conserva el respaldo
+  que hizo el script; luego en una terminal en la raíz de la bóveda ejecuta:
+
+     git rm --cached -- .obsidian-anki-bridge/data.json
+     git add .gitignore Conceptos
+     git commit -m "Integrar tarjetas Anki Bridge y proteger registro"
+     git push
+
+- git rm --cached solo deja de seguir el archivo; no lo borra del disco.
+- El historial pasado de GitHub sigue conteniendo versiones antiguas.
+- Si cambias de computador o restauras la bóveda, restaura también el archivo
+  data.json respaldado más reciente; de lo contrario se pueden perder los enlaces entre
+  las notas y las tarjetas de Anki. Es una decisión deliberada: privacidad
+  del estado local frente a sincronización multiplataforma de ese estado.
+- Si utilizas dos equipos con la misma bóveda, sincronizar el registro puede
+  ser necesario. En ese caso NO lo desindexes sin planificar la sincronización.
+
+TARJETAS PROPUESTAS
+- Autoinducción (2): N² y enlace de flujo / Faraday-Lenz.
+- Energía magnética (2): densidad de energía, potencia con signos de i.
+- Oscilaciones LC (3): unidades de omega0, energías al 50%, signos en T/2.
+
+Para editar una tarjeta creada con Bridge, modifica su texto dentro de la
+nota Markdown y guarda. No cambies ni borres el símbolo y el marcador %%oab%%.
+
+LIMITACIONES
+- Este paquete NO modifica tu repositorio remoto, porque la conexión a GitHub
+  disponible para esta sesión tiene permiso de lectura, no escritura.
+- El script se aplica sobre los archivos locales actuales, preservando
+  cualquier contenido adicional ya escrito en ellos.

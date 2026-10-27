@@ -1,0 +1,16 @@
+TARJETAS NUEVAS PARA ANKI BRIDGE
+================================
+Se agregarán a las notas originales, sin reemplazarlas.
+
+## Autoinducción e inductancia.md
+¿Por qué duplicar el número de espiras de un solenoide largo cuadruplica su inductancia (geometría fija)? ⇢%%oab:basic:v1%%El campo por unidad de corriente se duplica y también el número de espiras que enlazan el flujo: $L=N\Phi_B/i\propto N^2$.
+¿Cómo se obtiene la fem autoinducida desde Faraday-Lenz cuando $L$ es constante? ⇢%%oab:basic:v1%%Con $\lambda=N\Phi_B=Li$, Faraday-Lenz da $\mathcal E_{\mathrm{ind}}=-d\lambda/dt=-L\,di/dt$.
+
+## Energía magnética.md
+¿Qué representa $u_B$ y cuánto vale para un campo magnético en el vacío? ⇢%%oab:basic:v1%%Es la energía magnética por unidad de volumen: $u_B=B^2/(2\mu_0)$. Puede deducirse para un solenoide ideal usando $U_B=Li^2/2$.
+Si $i<0$ pero $di/dt>0$ en un inductor ideal, ¿aumenta o disminuye su energía magnética? ⇢%%oab:basic:v1%%Disminuye: $dU_B/dt=Li\,di/dt<0$. La corriente negativa se aproxima a cero, por lo que disminuye $|i|$.
+
+## Oscilaciones LC.md
+¿Cómo compruebas las unidades de la frecuencia angular natural $\omega_0=1/\sqrt{LC}$? ⇢%%oab:basic:v1%%$[L]=\mathrm{V\,s/A}$ y $[C]=\mathrm{A\,s/V}$; por tanto $[LC]=\mathrm{s^2}$ y $[\omega_0]=\mathrm{s^{-1}}$ (rad/s).
+Si en un LC ideal $U_E=U_B$, ¿por qué eso no significa que la oscilación se detenga? ⇢%%oab:basic:v1%%Igualdad de energías no implica equilibrio: la corriente sigue siendo no nula, de modo que el capacitor continúa transfiriendo carga.
+Con $i=dq/dt$, ¿qué signos tienen $q$, $i$ y $di/dt$ en $t=T/2$ si $q(0)=Q>0$ e $i(0)=0$? ⇢%%oab:basic:v1%%$q=-Q$, $i=0$ y $di/dt=+Q/(LC)>0$. La corriente pasa de negativa a positiva después de ese instante.

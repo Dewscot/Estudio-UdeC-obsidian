@@ -1,0 +1,16 @@
+﻿# Configuraciones locales de Obsidian
+**/.obsidian/
+
+# Registros privados de Anki Bridge
+**/.obsidian-anki-bridge/
+
+# Papelera
+**/.trash/
+
+# Materiales bibliográficos
+**/Materiales/
+*.pdf
+
+# Respaldos de Anki
+*.apkg
+*.colpkg
