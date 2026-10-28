@@ -1,59 +1,65 @@
 ---
 tags:
-  - electromagnetismo-ii
-  - certamen-2
   - problema
+tipo: problema
+asignatura: ""
+unidad: ""
 estado: pendiente
 fuente: ""
 dificultad: ""
 ---
 
 > [!question] ¿Qué se pide?
-> Resume el objetivo del ejercicio en una o dos frases, sin comenzar aún a calcular.
+> Resume el objetivo del ejercicio con tus palabras, sin comenzar todavía a resolverlo.
 
-## 1. Datos y condiciones
+## 1. Enunciado, datos y condiciones
 
+- **Referencia o enunciado (enlace, si corresponde):**
 - **Datos conocidos:**
-- **Incógnitas:**
-- **Hipótesis y condiciones iniciales:**
-- **Convenciones de signos, direcciones o fases:**
+- **Incógnitas o resultado esperado:**
+- **Hipótesis, condiciones iniciales y restricciones:**
+- **Notación, unidades y convenciones (si corresponde):**
 
-## 2. Esquema físico
+## 2. Esquema o representación (si aporta)
 
-Inserta un circuito, diagrama fasorial o dibujo **solo cuando ayude a plantear el problema**.
+Inserta un dibujo, circuito, gráfico, tabla, pseudocódigo o esquema solo cuando ayude a plantear la solución.
 
-## 3. Principios que usaré
+## 3. Principios y herramientas que usaré
 
-- **Leyes y ecuaciones pertinentes:**
-- **Por qué son aplicables aquí:**
-- **Notas conceptuales relacionadas:**
+- **Leyes, teoremas, ecuaciones o algoritmos pertinentes:**
+- **Por qué se aplican y qué condiciones exigen:**
+- **Notas de Conceptos relacionadas:**
 
 ## 4. Plan de resolución
 
-Describe los pasos que seguirías **antes de ver la solución**.
+Define una estrategia **antes de ver la pauta o solución**.
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## 5. Mi desarrollo
 
-Escribe tu intento de solución, incluyendo los pasos algebraicos que tengan valor para ti.
+Registra tu intento y los pasos relevantes. Explica las elecciones no evidentes. Si utilizas código, indica cómo comprobar su resultado.
 
 ## 6. Comprobaciones e interpretación
 
-- [ ] Revisé unidades y dimensiones.
-- [ ] Revisé signos, polaridades, fases o direcciones.
-- [ ] Examiné un caso límite o una comprobación física.
-- [ ] Puedo explicar el significado del resultado.
+- [ ] Comprobé las hipótesis y condiciones de aplicación.
+- [ ] Revisé los pasos algebraicos, numéricos o lógicos.
+- [ ] Comprobé unidades, signos, límites o ejemplos sencillos (si corresponde).
+- [ ] Puedo interpretar y explicar el resultado obtenido.
 
-> [!example]- Solución de referencia o comprobación (abrir solo después del intento)
-> Agrega aquí la pauta, el resultado o una comparación con la solución, **después** de resolver por tu cuenta.
+> [!example]- Solución de referencia (consultar después del intento)
+> Añade aquí una comprobación o comparación con la pauta **solo después** de resolver por tu cuenta.
 
-## 7. Método que quiero recordar
+## 7. Método reutilizable
 
-Resume la idea reutilizable que aprendiste del problema. No copies solamente el procedimiento numérico.
+¿Qué decisión, estrategia o procedimiento puedes volver a utilizar en problemas distintos?
 
 ## 8. Dudas y errores detectados
 
-Registra una duda pendiente o enlaza una nota en `Errores/` si descubriste un error que convenga repasar.
+Anota dificultades pendientes o crea un enlace a la nota correspondiente en `Errores/` cuando convenga repasarlas.
+
+## 9. Anki Bridge (opcional)
+
+Crea una tarjeta solo si identificaste una idea breve y generalizable que vale la pena recordar. **No conviertas toda la solución en tarjetas** ni dupliques preguntas de Conceptos.

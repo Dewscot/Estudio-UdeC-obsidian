@@ -186,5 +186,11 @@ Con $i=dq/dt$, ¿qué signos tienen $q$, $i$ y $di/dt$ en $t=T/2$ si $q(0)=Q>0$ 
 
 ¿Por qué la corriente puede ser máxima cuando la fem autoinducida es cero?⇢%%oab:basic:v1%%Porque la fem depende de la derivada temporal de la corriente, mientras que una corriente máxima puede tener derivada cero.
 
+En un circuito LC, ¿cómo se relaciona la corriente con la carga de una placa según la orientación elegida? ⇢%%oab:basic:v1%%Si la corriente positiva se define entrando a la placa, $i=dq/dt$. Si se define positiva durante su descarga, $i=-dq/dt$. Ambas convenciones son válidas si se mantienen consistentemente.
+
+¿Cuál es la transformada de Laplace de la segunda derivada de $q(t)$ y cómo incorpora las condiciones iniciales? ⇢%%oab:basic:v1%%$\mathcal L{q''(t)}=s^2\widetilde q(s)-sq(0)-q'(0)$. Las dos condiciones iniciales aparecen como términos algebraicos.
+
+En la solución general de un LC ideal, ¿qué determinan los términos seno y coseno? ⇢%%oab:basic:v1%%En $q(t)=q(0)\cos(\omega_0t)+\frac{q'(0)}{\omega_0}\sin(\omega_0t)$, el coseno depende de la carga inicial y el seno de la corriente inicial, usando $i=dq/dt$.
+
 <!-- FIN TARJETAS ANKI BRIDGE C2 -->
 

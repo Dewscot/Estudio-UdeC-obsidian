@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-label="Rectángulo de error de una medida experimental en dos dimensiones">
+  <rect width="720" height="360" fill="#ffffff"/>
+  <path d="M85 302 H655 M85 302 V40" stroke="#334155" stroke-width="2.4" fill="none"/>
+  <path d="M655 302 l-10 -5 v10 z M85 40 l-5 10 h10 z" fill="#334155"/>
+  <rect x="268" y="112" width="214" height="140" fill="#0e7490" fill-opacity=".10" stroke="#0284c7" stroke-width="2" stroke-dasharray="6 5"/>
+  <path d="M268 182 H482 M375 112 V252" stroke="#0369a1" stroke-width="3.2"/>
+  <path d="M268 174 v16 M482 174 v16 M367 112 h16 M367 252 h16" stroke="#0369a1" stroke-width="3"/>
+  <circle cx="375" cy="182" r="6" fill="#1d4ed8"/>
+  <path d="M375 182 V302 M85 182 H375" stroke="#64748b" stroke-dasharray="4 6" stroke-width="1.5" opacity=".65"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#334155" font-size="21">
+    <text x="664" y="307">x</text><text x="77" y="29">y</text>
+    <text x="365" y="328">x</text><text x="62" y="188">y</text>
+    <text x="228" y="277">x−Δx</text><text x="455" y="277">x+Δx</text>
+    <text x="398" y="107">y+Δy</text><text x="398" y="247">y−Δy</text>
+    <text x="392" y="172">(x,y)</text>
+  </g>
+</svg>

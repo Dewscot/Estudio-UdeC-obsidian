@@ -1,41 +1,43 @@
 ---
 tags:
-  - electromagnetismo-ii
-  - c2
+  - concepto
+tipo: concepto
+asignatura: ""
+unidad: ""
 estado: pendiente
 fuente: ""
 ---
 
-> [!abstract] Pregunta física
-> ¿Qué fenómeno queremos comprender? ¿Qué buscamos determinar?
+> [!abstract] Pregunta central
+> ¿Qué idea, fenómeno, método o teorema queremos comprender? ¿Para qué sirve?
 
-## 1. Idea física
+## 1. Idea e interpretación intuitiva
 
-Explica el fenómeno y su interpretación intuitiva antes de introducir ecuaciones.
+Explica el concepto con tus palabras antes de introducir el desarrollo formal. Cuando corresponda, señala un ejemplo sencillo.
 
-## 2. Leyes, hipótesis y convenciones
+## 2. Fundamentos, hipótesis y convenciones
 
-- **Leyes fundamentales:**
-- **Hipótesis del modelo:**
-- **Convenciones de signos y variables:**
+- **Definiciones, leyes o teoremas relevantes:**
+- **Hipótesis, condiciones de aplicación o prerrequisitos:**
+- **Notación, variables y convenciones (si corresponde):**
 
-## 3. Desarrollo matemático
+## 3. Desarrollo matemático o procedimiento
 
-Presenta la deducción paso a paso y explica las decisiones importantes.
+Reconstruye el argumento, deducción o algoritmo paso a paso. Justifica las decisiones importantes; no te limites a copiar fórmulas o código.
 
 ## 4. Interpretación y comprobaciones
 
-- **Significado físico del resultado:**
-- **Unidades y dimensiones:**
-- **Signos y casos límite:**
-- **Representación gráfica (si aporta):**
+- **Significado del resultado:**
+- **Condiciones y límites de validez:**
+- **Unidades, signos, casos límite o contraejemplos (según el ramo):**
+- **Gráfico, esquema, ejemplo o prueba computacional (solo si aporta):**
 
 ## 5. En mis palabras
 
 > [!note] Explicación personal
-> Intenta explicar este concepto sin mirar los apartados anteriores. ¿Qué entiendes y qué dudas permanecen?
+> Sin mirar lo anterior, explica la idea como si se la enseñaras a alguien. ¿Qué parte no puedes justificar todavía?
 
-## 6. Qué debo poder deducir sin consultar
+## 6. Qué debo poder reconstruir sin consultar
 
 - [ ]
 - [ ]
@@ -43,9 +45,13 @@ Presenta la deducción paso a paso y explica las decisiones importantes.
 ## 7. Recuperación activa
 
 1. **Pregunta conceptual:**
-2. **Deducción breve:**
+2. **Deducción, justificación o aplicación breve:**
 
 ## 8. Conexiones y dudas
 
 - **Se relaciona con:**
 - **Dudas pendientes:**
+
+## 9. Tarjetas Anki Bridge (solo si aportan valor)
+
+Añade aquí tarjetas **completas y autónomas** únicamente después de comprender el tema. Prioriza conceptos, condiciones de aplicación, errores comunes y deducciones cortas. Comprueba que no existan duplicados. Para insertarlas, utiliza el comando **Anki Bridge: Insert basic card**; deja esta sección sin tarjetas cuando no sean necesarias.

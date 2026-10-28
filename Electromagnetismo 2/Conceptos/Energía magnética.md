@@ -115,5 +115,9 @@ Este resultado se extiende al campo magnético en el vacío: $u_B=B^2/(2\mu_0)$.
 
 Si $i<0$ pero $di/dt>0$ en un inductor ideal, ¿aumenta o disminuye su energía magnética? ⇢%%oab:basic:v1%%Disminuye: $dU_B/dt=Li\,di/dt<0$. La corriente negativa se aproxima a cero, por lo que disminuye $|i|$.
 
+¿Cómo se deduce la energía de un inductor ideal de inductancia constante desde la potencia eléctrica recibida? ⇢%%oab:basic:v1%%Con la convención pasiva, $P=v_Li=Li,di/dt=dU_B/dt$. Entonces $dU_B=Li,di$ y al integrar desde $i=0$ se obtiene $U_B=\frac12 Li^2$.
+
+Si se duplica la corriente de un inductor ideal manteniendo constante $L$, ¿cómo cambian la energía final y su incremento? ⇢%%oab:basic:v1%%Como $U_B=\frac12 Li^2$, la energía final es $4U_{Bi}$ y el incremento es $\Delta U_B=3U_{Bi}$. La inductancia no cambia al variar la corriente en un modelo lineal.
+
 <!-- FIN TARJETAS ANKI BRIDGE C2 -->
 

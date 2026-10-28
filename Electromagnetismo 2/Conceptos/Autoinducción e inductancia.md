@@ -110,5 +110,7 @@ La relación $v_L=L\,di/dt$ permitirá construir las EDO de [[01 - Oscilaciones 
 
 ¿Cómo se obtiene la fem autoinducida desde Faraday-Lenz cuando $L$ es constante? ⇢%%oab:basic:v1%%Con $\lambda=N\Phi_B=Li$, Faraday-Lenz da $\mathcal E_{\mathrm{ind}}=-d\lambda/dt=-L\,di/dt$.
 
+¿Puede un inductor ideal tener energía magnética aunque su fem autoinducida sea cero? ⇢%%oab:basic:v1%%Sí. Si la corriente es constante y no nula, $U_B=\frac12 Li^2>0$, pero $\mathcal E_{\mathrm{ind}}=-L,di/dt=0$. La fem depende de la variación de corriente, no del campo magnético existente. 
+
 <!-- FIN TARJETAS ANKI BRIDGE C2 -->
 
