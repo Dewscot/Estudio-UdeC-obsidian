@@ -16,3 +16,7 @@ Haciendo los cálculos me quedaron
 $$
 \frac{1}{z^{2}+1} =\frac{A}{z-1}+\frac{B}{z+1} = -\frac{i}{z-1}+\frac{i}{z+1}
 $$
+Si derivamos:
+$$
+f(z)=\frac{e^{z}}{z} \to f'(z)=\frac{e^{z}z-e^{z}}{z^{2}} \to f'(1)=\frac{e-e}{1}=0
+$$
