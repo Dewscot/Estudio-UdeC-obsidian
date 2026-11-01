@@ -20,3 +20,22 @@ Si derivamos:
 $$
 f(z)=\frac{e^{z}}{z} \to f'(z)=\frac{e^{z}z-e^{z}}{z^{2}} \to f'(1)=\frac{e-e}{1}=0
 $$
+
+Separando en fracciones parciales 
+$$
+\frac{1}{z(z-1)^{2}}=\frac{\frac{1}{2}}{z}-\frac{\frac{1}{2}}{z-1}+\frac{\frac{1}{2}}{(z-1)^{2}} 
+$$
+Que tenemos que multiplicar por ${} {}$ 
+$$
+e^{z} \to \frac{\frac{e^{z}}{2}}{z}-\frac{\frac{e^{z}}{2}}{z-1}+\frac{\frac{e^{z}}{2}}{(z-1)^{2}} 
+$$
+Que nos daría la integral quedando
+$$
+I=\oint_{C} \frac{\frac{e^{z}}{2}}{z}dz -\oint_{C} \frac{\frac{e^{z}}{2}}{z-1}dz + \oint \frac{\frac{e^{z}}{2}}{(z-1)^{2}}dz  
+$$
+
+sabemos que ${}f(z)=f'(z)=f''(z)=\frac{e^{z}}{2}{}$ lo que implica que ${}f(0)=\frac{1}{2},f'(1)=f''(1)=\frac{e}{2}{}$
+quedando 
+$$
+I=\pi i -e\pi i+e\pi i =\pi i
+$$
