@@ -12,3 +12,7 @@ $$
 $$
 
 Fue un error al anotarlo el que pusiera ${}e^{2it}{}$ en vez de la que me diste, pero tal y como dices es interesante 
+Haciendo los cálculos me quedaron 
+$$
+\frac{1}{z^{2}+1} =\frac{A}{z-1}+\frac{B}{z+1} = -\frac{i}{z-1}+\frac{i}{z+1}
+$$
