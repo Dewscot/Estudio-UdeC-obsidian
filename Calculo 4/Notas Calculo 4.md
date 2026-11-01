@@ -23,19 +23,19 @@ $$
 
 Separando en fracciones parciales 
 $$
-\frac{1}{z(z-1)^{2}}=\frac{\frac{1}{2}}{z}-\frac{\frac{1}{2}}{z-1}+\frac{\frac{1}{2}}{(z-1)^{2}} 
+\frac{1}{z(z-1)^{2}}=\frac{1}{z}-\frac{1}{z-1}+\frac{1}{(z-1)^{2}}
 $$
 Que tenemos que multiplicar por ${} {}$ 
 $$
-e^{z} \to \frac{\frac{e^{z}}{2}}{z}-\frac{\frac{e^{z}}{2}}{z-1}+\frac{\frac{e^{z}}{2}}{(z-1)^{2}} 
+e^{z} \to \frac{e^{z}}{z(z-1)^{2}}=\frac{e^{z}}{z}-\frac{e^{z}}{z-1}+\frac{e^{z}}{(z-1)^{2}}
 $$
 Que nos daría la integral quedando
 $$
-I=\oint_{C} \frac{\frac{e^{z}}{2}}{z}dz -\oint_{C} \frac{\frac{e^{z}}{2}}{z-1}dz + \oint \frac{\frac{e^{z}}{2}}{(z-1)^{2}}dz  
+I=\oint_{C}\frac{e^{z}}{z}dz-\oint_{C}\frac{e^{z}}{z-1}dz+\oint_{C}\frac{e^{z}}{(z-1)^{2}}dz
 $$
 
-sabemos que ${}f(z)=f'(z)=f''(z)=\frac{e^{z}}{2}{}$ lo que implica que ${}f(0)=\frac{1}{2},f'(1)=f''(1)=\frac{e}{2}{}$
+sabemos que ${}f(z)=f'(z)=f''(z)=e^{z}{}$ lo que implica que ${}f(0)=1,f(1)=f'(1)=e{}$
 quedando 
 $$
-I=\pi i -e\pi i+e\pi i =\pi i
+I=2\pi i -e 2\pi i+e 2\pi i =2\pi i
 $$
