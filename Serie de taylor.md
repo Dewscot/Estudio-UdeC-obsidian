@@ -15,4 +15,4 @@ Si intentamos despejar $f'(x)$ tenemos
 $$
 \frac{f(x+h)-f(x)}{h}=f'(x)+f''(x) \frac{h}{2}+\dots
 $$ 
-Que es la derivada adelantada es igual a ${}f'(x){}$ más los otros terminos, pero como vimos que cuando más pequeño es h menos afecta al resultado o menos importa así que su ${} {}$ 
+Que es la derivada adelantada es igual a ${}f'(x){}$ más los otros terminos, pero como vimos que cuando más pequeño es h menos afecta al resultado o menos importa así que su ${}O(h) {}$ es de primera magnitud 
