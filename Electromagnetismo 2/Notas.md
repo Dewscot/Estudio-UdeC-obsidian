@@ -113,3 +113,5 @@ $$
 q(t)=Q\cos(\sqrt{ 3 }t)e^{ -t }+\frac{Q}{\sqrt{ 3 }}\sin(\sqrt{ 3 }t)e^{ -t }
 $$
 No me acuerdo bien de las traslaciones para laplace, pero en este ejercicio creo que llegamos a eso
+
+

@@ -81,3 +81,10 @@ En la franja $S=\{x+iy:-\pi<y<\pi\}$, la exponencial es inyectiva y lleva $S$ a 
 ¿Qué controlan $\operatorname{Re}z$ e $\operatorname{Im}z$ en $e^z$? ⇢%%oab:basic:v1%%La parte real fija el módulo $e^{\operatorname{Re}z}$ y la imaginaria fija el argumento módulo $2\pi$.
 
 ¿Por qué $e^z$ no puede valer cero para ningún $z\in\mathbb C$? ⇢%%oab:basic:v1%%Porque $|e^z|=e^{\operatorname{Re}z}>0$ para toda parte real finita.
+
+${}\frac{2}{1}{}$
+
+$$
+awdawdawd
+$$
+//

@@ -23,7 +23,6 @@ La representación cartesiana $x+iy$ destaca las componentes; la polar $re^{i\th
 - **Argumentos:** si $\theta$ es argumento de $z$, también lo es $\theta+2\pi k$, $k\in\mathbb Z$.
 - **Convención de Semana 1:** se toma un argumento principal $\operatorname{Arg}(z)\in(-\pi,\pi]$. En la nota [[Logaritmo complejo y ramas]] se utiliza la rama abierta $(-\pi,\pi)$ sobre un dominio cortado: son contextos distintos.
 - $e^{i\theta}=\cos\theta+i\sin\theta$.
-
 ## 3. Desarrollo matemático o procedimiento
 
 Por la sustitución de coordenadas,
@@ -84,3 +83,6 @@ $$
 ¿Qué hace la multiplicación por $re^{i\theta}$ a un complejo del plano? ⇢%%oab:basic:v1%%Escala su módulo por $r$ y rota su argumento en $\theta$ (módulo $2\pi$).
 
 ¿Por qué un número complejo no nulo tiene infinitos argumentos? ⇢%%oab:basic:v1%%Porque $e^{i(\theta+2\pi k)}=e^{i\theta}$ para cualquier $k\in\mathbb Z$.
+$$
+\sum_{1}^{m}
+$$
