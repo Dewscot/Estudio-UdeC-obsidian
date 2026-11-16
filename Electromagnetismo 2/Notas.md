@@ -115,3 +115,6 @@ $$
 No me acuerdo bien de las traslaciones para laplace, pero en este ejercicio creo que llegamos a eso
 
 
+$$
+\vec{B}(y,t)=1{,}03x 10{^{-3}} T \hat{x} \cos \left( 4{,}22\times 10{^4} \frac{rad}{m}y-12{,}65\times 10{^{12}} \frac{rad}{s}t \right)  
+$$
