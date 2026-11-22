@@ -8,7 +8,10 @@
 **/.trash/
 
 # Materiales bibliográficos
-**/Materiales/
+**/Materiales/*
+!/Calculo 4/Materiales/Materiales - Cálculo 4.md
+!/Electromagnetismo 2/Materiales/Materiales - Electromagnetismo 2.md
+!/Laboratorio 1/Materiales/Materiales - Laboratorio 1.md
 *.pdf
 
 # Respaldos de Anki

@@ -6,6 +6,8 @@ tags:
   - circuitos-rlc
 estado: estudiado
 fuente: "Contenido 5 — Corriente Alterna (profesor, 510238); deducción de las respuestas sinusoidales"
+tipo: concepto
+asignatura: "Electromagnetismo II"
 ---
 
 > [!abstract] Pregunta física
@@ -79,7 +81,7 @@ Por eso la corriente **se adelanta** al voltaje.
 - [ ] Explicar por qué $i_L=0$ no implica necesariamente $v_L=0$.
 - [ ] Distinguir amplitud, valor instantáneo, valor medio y valor eficaz.
 
-**Conexiones:** [[Autoinducción e inductancia]] · [[Energía magnética]] · [[Oscilaciones LC]] · impedancias y fasores (próxima sección).
+**Conexiones:** [[Autoinducción e inductancia]] · [[Energía magnética]] · [[Oscilaciones LC]] · [[Fasores e impedancias]].
 
 ## 5. Tarjetas de Anki Bridge
 

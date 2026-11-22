@@ -7,6 +7,8 @@ tags:
   - valor-eficaz
 estado: estudiado
 fuente: "Contenido 5 510238 CA; Contenido 5.2 510238 Potencia CA; desarrollos y comprobaciones del estudio"
+tipo: concepto
+asignatura: "Electromagnetismo II"
 ---
 
 > [!abstract] Pregunta física

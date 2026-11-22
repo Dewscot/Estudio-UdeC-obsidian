@@ -6,6 +6,8 @@ tags:
   - impedancia
 aliases:
   - Método fasorial
+tipo: concepto
+asignatura: "Electromagnetismo II"
 ---
 
 # Fasores e impedancias
@@ -13,7 +15,7 @@ aliases:
 > [!abstract] Propósito
 > Comprender por qué podemos resolver circuitos de corriente alterna sinusoidal con números complejos, qué representa cada símbolo y cuándo conviene sumar impedancias o admitancias.
 
-**Conexiones:** [[Relaciones constitutivas RLC - CC y CA]] · [[Reactancias y valores maximo medio eficaz]] · [[Oscilaciones LC]]
+**Conexiones:** [[Relaciones constitutivas RLC - CC y CA]] · [[Reactancias y valores máximo, medio, eficaz]] · [[Oscilaciones LC]] · [[Forma polar, argumento y potencias|módulo y argumento de un número complejo]]
 
 ## 1. ¿Qué problema resolvemos?
 

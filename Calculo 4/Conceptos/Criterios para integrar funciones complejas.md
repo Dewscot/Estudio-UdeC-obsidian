@@ -1,3 +1,10 @@
+---
+tags:
+  - calculo-iv
+tipo: concepto
+asignatura: "Cálculo IV"
+---
+
 # Criterios para integrar funciones complejas
 
 > [!important] Idea central
@@ -123,3 +130,8 @@ En la fórmula integral de Cauchy, ¿qué condiciones deben cumplir g(z) y el pu
 Si una función tiene singularidades interiores y no es aplicable directamente Cauchy–Goursat, ¿qué podemos afirmar del valor de la integral? ⇢%%oab:basic:v1%%No podemos decidir si es cero o distinta de cero solo por ese hecho. Debemos justificar el valor mediante otro método válido.
 
 ¿Por qué una integral cerrada no nula impide que exista una primitiva global sobre un dominio que contiene la curva? ⇢%%oab:basic:v1%%Porque, si existiera tal primitiva, el teorema fundamental obligaría a que toda integral cerrada en ese dominio fuera cero.
+
+## Conexiones
+
+- [[Integración compleja sobre caminos]] y [[Primitivas complejas e independencia del camino]].
+- [[Teorema de Cauchy-Goursat y deformación]], [[Fórmula integral de Cauchy]] y [[Fórmula integral generalizada y desigualdad de Cauchy]].

@@ -6,6 +6,8 @@ tags:
   - energia-magnetica
 estado: estudiado
 fuente: "Contenido 4.1 510238 - Inductancia_EnergíaB, diapositivas 15–18"
+tipo: concepto
+asignatura: "Electromagnetismo II"
 ---
 
 > [!abstract] Pregunta física

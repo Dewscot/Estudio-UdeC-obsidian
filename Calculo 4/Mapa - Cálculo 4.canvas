@@ -1,0 +1,401 @@
+{
+  "nodes": [
+    {
+      "id": "0b05391dabd55d2b",
+      "type": "group",
+      "x": 0,
+      "y": 0,
+      "width": 2440,
+      "height": 252,
+      "label": "Inicio y recursos"
+    },
+    {
+      "id": "8947d492252a5971",
+      "type": "group",
+      "x": 0,
+      "y": 320,
+      "width": 1200,
+      "height": 534,
+      "label": "Números complejos y geometría",
+      "color": "5"
+    },
+    {
+      "id": "3843dff32dc25a2b",
+      "type": "group",
+      "x": 1240,
+      "y": 320,
+      "width": 1200,
+      "height": 534,
+      "label": "Funciones elementales y ramas",
+      "color": "5"
+    },
+    {
+      "id": "360ae572d62c51a2",
+      "type": "group",
+      "x": 0,
+      "y": 940,
+      "width": 2440,
+      "height": 296,
+      "label": "Integración compleja y teoremas de Cauchy",
+      "color": "5"
+    },
+    {
+      "id": "0752ee945c8d541e",
+      "type": "text",
+      "x": 40,
+      "y": 48,
+      "width": 530,
+      "height": 160,
+      "color": "5",
+      "text": "# Cálculo IV\n\nEmpieza por **Números complejos, operaciones y módulo**. Sigue las flechas para repasar conceptos y pasar a los ejercicios. Selecciona una tarjeta y pulsa `Shift+2` para acercarte."
+    },
+    {
+      "id": "22f1d5f9b5ed504f",
+      "type": "file",
+      "x": 650,
+      "y": 48,
+      "width": 530,
+      "height": 160,
+      "file": "Calculo 4/Índice - Cálculo 4.md"
+    },
+    {
+      "id": "c1b694031daf58ac",
+      "type": "file",
+      "x": 1260,
+      "y": 48,
+      "width": 530,
+      "height": 160,
+      "file": "Calculo 4/Materiales/Materiales - Cálculo 4.md"
+    },
+    {
+      "id": "96ba8982758d5afc",
+      "type": "file",
+      "x": 1870,
+      "y": 48,
+      "width": 530,
+      "height": 160,
+      "file": "Calculo 4/Notas Calculo 4.md"
+    },
+    {
+      "id": "e7a0751e29a05d03",
+      "type": "file",
+      "x": 445,
+      "y": 370,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Números complejos, operaciones y módulo.md"
+    },
+    {
+      "id": "fb375ec7706d5c18",
+      "type": "file",
+      "x": 40,
+      "y": 370,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Regiones del plano complejo.md"
+    },
+    {
+      "id": "d6675235bc665444",
+      "type": "file",
+      "x": 850,
+      "y": 370,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Forma polar, argumento y potencias.md"
+    },
+    {
+      "id": "210870cb97a150e8",
+      "type": "file",
+      "x": 40,
+      "y": 626,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Errores/Circunferencias.md",
+      "color": "1"
+    },
+    {
+      "id": "aea95694592a5edf",
+      "type": "file",
+      "x": 445,
+      "y": 626,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Funciones complejas e imágenes de conjuntos.md"
+    },
+    {
+      "id": "d7f022b5f26d5074",
+      "type": "file",
+      "x": 850,
+      "y": 626,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Problemas/Imagen de una recta vertical bajo la inversión.md",
+      "color": "3"
+    },
+    {
+      "id": "8755c09037695c9e",
+      "type": "file",
+      "x": 1280,
+      "y": 370,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Exponencial compleja.md"
+    },
+    {
+      "id": "067c74ea8823568e",
+      "type": "file",
+      "x": 1685,
+      "y": 370,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Logaritmo complejo y ramas.md"
+    },
+    {
+      "id": "73ed53270e9c5442",
+      "type": "file",
+      "x": 2090,
+      "y": 370,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Raíces complejas y ramas.md"
+    },
+    {
+      "id": "199c7669151d5523",
+      "type": "file",
+      "x": 1280,
+      "y": 626,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Funciones trigonométricas complejas.md"
+    },
+    {
+      "id": "796c5aa078d75d10",
+      "type": "file",
+      "x": 2090,
+      "y": 626,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Problemas/Raíces cúbicas de 8i.md",
+      "color": "3"
+    },
+    {
+      "id": "7773e349cc135704",
+      "type": "file",
+      "x": 2090,
+      "y": 994,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Integración compleja sobre caminos.md"
+    },
+    {
+      "id": "8c3fba134d1b5715",
+      "type": "file",
+      "x": 1685,
+      "y": 994,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Primitivas complejas e independencia del camino.md"
+    },
+    {
+      "id": "26182d6f9ca15297",
+      "type": "file",
+      "x": 1280,
+      "y": 994,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Teorema de Cauchy-Goursat y deformación.md"
+    },
+    {
+      "id": "d6b94b0b59205e3a",
+      "type": "file",
+      "x": 850,
+      "y": 994,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Fórmula integral de Cauchy.md"
+    },
+    {
+      "id": "0c70a0cd80c85c89",
+      "type": "file",
+      "x": 445,
+      "y": 994,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Fórmula integral generalizada y desigualdad de Cauchy.md"
+    },
+    {
+      "id": "dd01237b828c528b",
+      "type": "file",
+      "x": 40,
+      "y": 994,
+      "width": 310,
+      "height": 186,
+      "file": "Calculo 4/Conceptos/Criterios para integrar funciones complejas.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "afb5688c1ca9522d",
+      "fromNode": "e7a0751e29a05d03",
+      "fromSide": "left",
+      "fromEnd": "none",
+      "toNode": "fb375ec7706d5c18",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "distancia"
+    },
+    {
+      "id": "91ed4ea431665633",
+      "fromNode": "e7a0751e29a05d03",
+      "fromSide": "right",
+      "fromEnd": "none",
+      "toNode": "d6675235bc665444",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "argumento"
+    },
+    {
+      "id": "d3471ace8a98511e",
+      "fromNode": "fb375ec7706d5c18",
+      "fromSide": "bottom",
+      "fromEnd": "none",
+      "toNode": "210870cb97a150e8",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "centro y radio",
+      "color": "1"
+    },
+    {
+      "id": "3641008ff76458b3",
+      "fromNode": "fb375ec7706d5c18",
+      "fromSide": "bottom",
+      "fromEnd": "none",
+      "toNode": "aea95694592a5edf",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "dominio"
+    },
+    {
+      "id": "76a92940c8c85a20",
+      "fromNode": "aea95694592a5edf",
+      "fromSide": "right",
+      "fromEnd": "none",
+      "toNode": "d7f022b5f26d5074",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "ejercicio",
+      "color": "3"
+    },
+    {
+      "id": "85e878a0254456f5",
+      "fromNode": "d6675235bc665444",
+      "fromSide": "right",
+      "fromEnd": "none",
+      "toNode": "8755c09037695c9e",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "fórmula de Euler"
+    },
+    {
+      "id": "e2b1b29ba27a56bb",
+      "fromNode": "8755c09037695c9e",
+      "fromSide": "right",
+      "fromEnd": "none",
+      "toNode": "067c74ea8823568e",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "inversa"
+    },
+    {
+      "id": "f0d1dc99c8d152c5",
+      "fromNode": "8755c09037695c9e",
+      "fromSide": "bottom",
+      "fromEnd": "none",
+      "toNode": "199c7669151d5523",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "seno y coseno"
+    },
+    {
+      "id": "d106d630a5ad5af0",
+      "fromNode": "067c74ea8823568e",
+      "fromSide": "right",
+      "fromEnd": "none",
+      "toNode": "73ed53270e9c5442",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "ramas"
+    },
+    {
+      "id": "4f69f7899d2e5b7c",
+      "fromNode": "73ed53270e9c5442",
+      "fromSide": "bottom",
+      "fromEnd": "none",
+      "toNode": "796c5aa078d75d10",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "ejercicio",
+      "color": "3"
+    },
+    {
+      "id": "dc58af4131ff55b7",
+      "fromNode": "067c74ea8823568e",
+      "fromSide": "bottom",
+      "fromEnd": "none",
+      "toNode": "8c3fba134d1b5715",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "primitiva de 1/z"
+    },
+    {
+      "id": "a8d91fd57f855c14",
+      "fromNode": "7773e349cc135704",
+      "fromSide": "left",
+      "fromEnd": "none",
+      "toNode": "8c3fba134d1b5715",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "primitivas"
+    },
+    {
+      "id": "a2d4af05edac5b44",
+      "fromNode": "8c3fba134d1b5715",
+      "fromSide": "left",
+      "fromEnd": "none",
+      "toNode": "26182d6f9ca15297",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "otro criterio"
+    },
+    {
+      "id": "709eb0da823a52c7",
+      "fromNode": "26182d6f9ca15297",
+      "fromSide": "left",
+      "fromEnd": "none",
+      "toNode": "d6b94b0b59205e3a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "contornos"
+    },
+    {
+      "id": "aa05d322a345583b",
+      "fromNode": "d6b94b0b59205e3a",
+      "fromSide": "left",
+      "fromEnd": "none",
+      "toNode": "0c70a0cd80c85c89",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "derivadas"
+    },
+    {
+      "id": "8cf5a503c032525f",
+      "fromNode": "0c70a0cd80c85c89",
+      "fromSide": "left",
+      "fromEnd": "none",
+      "toNode": "dd01237b828c528b",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "síntesis"
+    }
+  ]
+}

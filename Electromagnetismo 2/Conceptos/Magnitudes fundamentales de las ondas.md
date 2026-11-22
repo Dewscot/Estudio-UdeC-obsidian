@@ -5,6 +5,8 @@ tags:
   - ondas-armonicas
 aliases:
   - Periodo frecuencia y numero de onda
+tipo: concepto
+asignatura: "Electromagnetismo II"
 ---
 
 # Magnitudes fundamentales de las ondas

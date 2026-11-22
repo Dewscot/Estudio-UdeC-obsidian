@@ -1,0 +1,31 @@
+{
+	"nodes": [
+		{"id":"0000000000000001","type":"group","x":0,"y":232,"width":1464,"height":244,"color":"#3B82F6","label":"Inductancia, energía y oscilación libre"},
+		{"id":"0000000000000002","type":"group","x":0,"y":572,"width":1464,"height":244,"color":"#0E7490","label":"Circuitos de corriente alterna"},
+		{"id":"0000000000000003","type":"group","x":0,"y":912,"width":424,"height":264,"color":"#64748B","label":"Ejercicios y cálculos de clase"},
+		{"id":"0000000000000004","type":"group","x":520,"y":912,"width":424,"height":264,"color":"#64748B","label":"Figura de apoyo"},
+		{"id":"0000000000000005","type":"group","x":1040,"y":912,"width":424,"height":264,"color":"#6D56BD","label":"Ondas armónicas"},
+		{"id":"0000000000000006","type":"text","x":28,"y":0,"width":368,"height":160,"color":"#3B82F6","text":"# Electromagnetismo 2\n\nSigue las flechas entre temas. Haz **Ctrl + clic** en el título de una tarjeta para abrir su archivo."},
+		{"id":"0000000000000007","type":"file","x":548,"y":0,"width":368,"height":160,"color":"#3B82F6","file":"Electromagnetismo 2/Índice - Electromagnetismo 2.md"},
+		{"id":"0000000000000008","type":"file","x":1068,"y":0,"width":368,"height":160,"color":"#3B82F6","file":"Electromagnetismo 2/Materiales/Materiales - Electromagnetismo 2.md"},
+		{"id":"0000000000000009","type":"file","x":28,"y":268,"width":368,"height":168,"color":"#3B82F6","file":"Electromagnetismo 2/Conceptos/Autoinducción e inductancia.md"},
+		{"id":"000000000000000a","type":"file","x":548,"y":268,"width":368,"height":168,"color":"#3B82F6","file":"Electromagnetismo 2/Conceptos/Energía magnética.md"},
+		{"id":"000000000000000b","type":"file","x":1068,"y":268,"width":368,"height":168,"color":"#3B82F6","file":"Electromagnetismo 2/Conceptos/Oscilaciones LC.md"},
+		{"id":"000000000000000c","type":"file","x":28,"y":608,"width":368,"height":168,"color":"#0E7490","file":"Electromagnetismo 2/Conceptos/Relaciones constitutivas RLC - CC y CA.md"},
+		{"id":"000000000000000d","type":"file","x":548,"y":608,"width":368,"height":168,"color":"#0E7490","file":"Electromagnetismo 2/Conceptos/Reactancias y valores máximo, medio, eficaz.md"},
+		{"id":"000000000000000e","type":"file","x":1068,"y":608,"width":368,"height":168,"color":"#0E7490","file":"Electromagnetismo 2/Conceptos/Fasores e impedancias.md"},
+		{"id":"000000000000000f","type":"file","x":28,"y":948,"width":368,"height":188,"color":"#64748B","file":"Electromagnetismo 2/Notas.md"},
+		{"id":"0000000000000010","type":"file","x":548,"y":948,"width":368,"height":188,"color":"#64748B","file":"Electromagnetismo 2/imagenes/energia-lc.svg"},
+		{"id":"0000000000000011","type":"file","x":1068,"y":948,"width":368,"height":188,"color":"#6D56BD","file":"Electromagnetismo 2/Conceptos/Magnitudes fundamentales de las ondas.md"}
+	],
+	"edges": [
+		{"id":"0000000000000012","fromNode":"0000000000000009","fromSide":"right","toNode":"000000000000000a","toSide":"left","toEnd":"arrow","label":"energía del inductor","color":"#3B82F6"},
+		{"id":"0000000000000013","fromNode":"000000000000000a","fromSide":"right","toNode":"000000000000000b","toSide":"left","toEnd":"arrow","label":"intercambio en LC","color":"#3B82F6"},
+		{"id":"0000000000000014","fromNode":"0000000000000009","fromSide":"bottom","toNode":"000000000000000c","toSide":"top","toEnd":"arrow","label":"ley de la bobina","color":"#3B82F6"},
+		{"id":"0000000000000015","fromNode":"000000000000000b","fromSide":"bottom","toNode":"000000000000000e","toSide":"top","toEnd":"arrow","label":"frecuencia natural y resonancia","color":"#3B82F6"},
+		{"id":"0000000000000016","fromNode":"000000000000000c","fromSide":"right","toNode":"000000000000000d","toSide":"left","toEnd":"arrow","label":"respuesta en CA","color":"#0E7490"},
+		{"id":"0000000000000017","fromNode":"000000000000000d","fromSide":"right","toNode":"000000000000000e","toSide":"left","toEnd":"arrow","label":"de reactancia a impedancia","color":"#0E7490"},
+		{"id":"0000000000000018","fromNode":"000000000000000c","fromSide":"bottom","toNode":"000000000000000f","toSide":"top","toEnd":"arrow","label":"ejercicio RLC amortiguado","color":"#64748B"},
+		{"id":"0000000000000019","fromNode":"000000000000000e","fromSide":"bottom","toNode":"0000000000000011","toSide":"top","toEnd":"arrow","label":"fase en espacio y tiempo","color":"#6D56BD"}
+	]
+}

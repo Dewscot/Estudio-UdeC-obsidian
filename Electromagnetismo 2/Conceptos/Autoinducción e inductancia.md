@@ -5,6 +5,8 @@ tags:
   - inductancia
 estado: en-estudio
 fuente: "Contenido 4.1 510238 - Inductancia_EnergíaB, diapositivas 1–8"
+tipo: concepto
+asignatura: "Electromagnetismo II"
 ---
 
 
@@ -96,7 +98,7 @@ $$
 
 ## Conexión con las secciones siguientes
 
-La relación $v_L=L\,di/dt$ permitirá construir las EDO de [[01 - Oscilaciones LC]]. Antes revisaremos el balance energético en [[00.2 - Energia magnetica]]. La energía almacenada en un inductor se desarrolla **en la siguiente nota**, no en esta.
+La relación $v_L=L\,di/dt$ permitirá construir las EDO de [[Oscilaciones LC]]. Antes revisaremos el balance energético en [[Energía magnética]]. La energía almacenada en un inductor se desarrolla **en la siguiente nota**, no en esta.
 
 ---
 

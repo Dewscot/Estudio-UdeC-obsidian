@@ -1,3 +1,10 @@
+---
+tags:
+  - calculo-iv
+tipo: apunte
+asignatura: "Cálculo IV"
+---
+
 Generalizacion de la rama principal
 $$
 Log^{\alpha}(z)=\ln|z|+i\theta \quad , \alpha <\theta<\alpha+2\pi
@@ -42,3 +49,8 @@ $$
 
 ${}f(z)=\frac{\frac{e^{z}}{(z-1)^{2}}}{z}{}$
 
+## Apuntes relacionados
+
+- [[Logaritmo complejo y ramas]] para los cortes y dominios.
+- [[Integración compleja sobre caminos]] para la parametrización.
+- [[Fórmula integral generalizada y desigualdad de Cauchy]] para las integrales con potencias.

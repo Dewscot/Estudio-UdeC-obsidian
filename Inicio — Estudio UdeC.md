@@ -1,3 +1,4 @@
+# Estudio UdeC
 
 Bóveda general para organizar los apuntes de Ciencias Físicas en la Universidad de Concepción.
 
@@ -5,14 +6,19 @@ Las asignaturas se organizan en carpetas independientes y comparten plantillas d
 
 El contenido se respalda mediante GitHub y las tarjetas de recuperación activa se gestionan mediante Anki Bridge.
 
+## Ramos
 
+- **Cálculo 4** · [[Calculo 4/Índice - Cálculo 4|Apuntes]] · [[Calculo 4/Mapa - Cálculo 4.canvas|Mapa]]
+- **Electromagnetismo 2** · [[Electromagnetismo 2/Índice - Electromagnetismo 2|Apuntes]] · [[Electromagnetismo 2/Mapa - Electromagnetismo 2.canvas|Mapa]]
+- **Laboratorio 1** · [[Laboratorio 1/Índice - Laboratorio 1|Apuntes]] · [[Laboratorio 1/Mapa - Laboratorio 1.canvas|Mapa]]
 
+## Organización de la bóveda
 
+[[Índice|Cómo organizar y enlazar los apuntes]]
 
+[[Serie de taylor|Apunte transversal sobre Taylor y derivación numérica]]
 
-
-
-### Principios para aprender y estudiar
+## Principios para aprender y estudiar
 
 - **Predecir antes de aprender:** cuando tenga sentido, intenta anticipar una idea utilizando lo que ya sabes. Equivocarse también puede ayudar a comprender.
     

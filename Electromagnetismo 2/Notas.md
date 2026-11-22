@@ -1,6 +1,9 @@
-
-
-
+---
+tags:
+  - electromagnetismo-ii
+tipo: apunte
+asignatura: "Electromagnetismo II"
+---
 
 >[!question]-  Si circula una corriente constante y distinta de cero por un solenoide, ¿existe campo magnético? ¿Existe fem autoinducida? Justifica ambas respuestas.
 >**Mi respuesta**
@@ -85,6 +88,8 @@ U_{total}(t)=\frac{1}{2} \frac{Q^{2}}{C}(\cos(\omega t)^{2}+\sin(\omega t)^{2})
 $$
 que podemos simplificar.  Eliminando t y quedando que la energía total va a ser constante en el tiempo
 
+## Circuitos RLC amortiguados
+
 Las tensiones en un circuito RCL
 $$
 v_{L}=L\frac{di}{dt} \quad v_{R}=Ri \quad v_{C}=\frac{q}{C}
@@ -118,3 +123,9 @@ No me acuerdo bien de las traslaciones para laplace, pero en este ejercicio creo
 $$
 \vec{B}(y,t)=1{,}03x 10{^{-3}} T \hat{x} \cos \left( 4{,}22\times 10{^4} \frac{rad}{m}y-12{,}65\times 10{^{12}} \frac{rad}{s}t \right)  
 $$
+
+## Apuntes relacionados
+
+- [[Autoinducción e inductancia]] y [[Energía magnética]] para los ejercicios con solenoides.
+- [[Oscilaciones LC]] y [[Relaciones constitutivas RLC - CC y CA]] para los circuitos.
+- [[Magnitudes fundamentales de las ondas]] para el ejercicio de la onda.

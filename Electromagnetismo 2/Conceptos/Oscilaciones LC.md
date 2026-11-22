@@ -6,6 +6,8 @@ tags:
   - oscilaciones
 estado: estudiado
 fuente: "Contenido 4.2 510238 Circuito RL(+C)-Oscilaciones, diapositivas 8–19"
+tipo: concepto
+asignatura: "Electromagnetismo II"
 ---
 
 > [!abstract] Pregunta física
@@ -20,7 +22,7 @@ En un **circuito LC ideal** (sin resistencia ni fuente después de cerrar el cir
 - Al medio período: capacitor cargado con **polaridad invertida** ($-Q$), corriente cero.
 - El proceso se repite: la energía no desaparece cuando $q=0$ porque sigue almacenada en el inductor.
 
-![[energia-lc.svg]]
+![[Electromagnetismo 2/imagenes/energia-lc.svg]]
 
 ## 2. Leyes, hipótesis y convenciones
 
@@ -167,7 +169,7 @@ No hay pérdida de energía: únicamente cambia dónde está almacenada.
 
 ## 8. Conexiones y dudas
 
-- **Se relaciona con:** [[Autoinducción e inductancia]] · [[Energía magnética]] · [[Oscilaciones RLC]].
+- **Se relaciona con:** [[Autoinducción e inductancia]] · [[Energía magnética]] · [[Electromagnetismo 2/Notas#Circuitos RLC amortiguados|ejercicio de RLC amortiguado]].
 - **Próximo paso:** añadir resistencia y analizar amortiguamiento.
 - **Dudas pendientes:** anotar aquí signos, fases y pasos de Laplace para repasar.
 

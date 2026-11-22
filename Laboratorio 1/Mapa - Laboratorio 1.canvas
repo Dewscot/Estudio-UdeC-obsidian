@@ -1,0 +1,131 @@
+{
+  "nodes": [
+    {
+      "id": "70b1079cba1ab140",
+      "type": "group",
+      "x": -32,
+      "y": 320,
+      "width": 1616,
+      "height": 312,
+      "color": "#10B981",
+      "label": "De medir a comunicar resultados"
+    },
+    {
+      "id": "086b79c54e942484",
+      "type": "group",
+      "x": 1040,
+      "y": 740,
+      "width": 544,
+      "height": 270,
+      "color": "3",
+      "label": "Práctica"
+    },
+    {
+      "id": "11067132479adc41",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 392,
+      "height": 200,
+      "color": "#10B981",
+      "text": "# Laboratorio 1\n\nSigue las flechas para repasar las clases. **Ctrl + clic** en el título abre la nota. **Mayús + 1** encaja el mapa."
+    },
+    {
+      "id": "fe7ba161b8301539",
+      "type": "file",
+      "x": 520,
+      "y": 0,
+      "width": 424,
+      "height": 200,
+      "color": "#10B981",
+      "file": "Laboratorio 1/Índice - Laboratorio 1.md"
+    },
+    {
+      "id": "58d6193aba45e4b2",
+      "type": "file",
+      "x": 1072,
+      "y": 0,
+      "width": 480,
+      "height": 200,
+      "file": "Laboratorio 1/Materiales/Materiales - Laboratorio 1.md"
+    },
+    {
+      "id": "885bade95b89a96c",
+      "type": "file",
+      "x": 0,
+      "y": 364,
+      "width": 388,
+      "height": 224,
+      "file": "Laboratorio 1/Conceptos/Clase 1 - Graficos experimentales.md"
+    },
+    {
+      "id": "4aee766c0ccaae14",
+      "type": "file",
+      "x": 576,
+      "y": 364,
+      "width": 388,
+      "height": 224,
+      "file": "Laboratorio 1/Conceptos/Clase 2 - Errores experimentales y cifras significativas.md"
+    },
+    {
+      "id": "118a124d68378ee6",
+      "type": "file",
+      "x": 1152,
+      "y": 364,
+      "width": 400,
+      "height": 224,
+      "file": "Laboratorio 1/Conceptos/Clase 3 - Medidas estadisticas y propagacion de incertidumbres.md"
+    },
+    {
+      "id": "c43e841f9eb1cba0",
+      "type": "file",
+      "x": 1072,
+      "y": 780,
+      "width": 480,
+      "height": 198,
+      "color": "3",
+      "file": "Laboratorio 1/Notas Lab 1.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "ba065c444360299e",
+      "fromNode": "11067132479adc41",
+      "fromSide": "bottom",
+      "toNode": "885bade95b89a96c",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "color": "#10B981"
+    },
+    {
+      "id": "a64c8cc1b9483532",
+      "fromNode": "885bade95b89a96c",
+      "fromSide": "right",
+      "toNode": "4aee766c0ccaae14",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "color": "#10B981",
+      "label": "Barras de error"
+    },
+    {
+      "id": "3e47091b61ed66b0",
+      "fromNode": "4aee766c0ccaae14",
+      "fromSide": "right",
+      "toNode": "118a124d68378ee6",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "color": "#10B981",
+      "label": "Medidas repetidas"
+    },
+    {
+      "id": "5f51dc1e9dda3190",
+      "fromNode": "118a124d68378ee6",
+      "fromSide": "bottom",
+      "toNode": "c43e841f9eb1cba0",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "color": "#10B981",
+      "label": "Propagar incertidumbre"
+    }
+  ]
+}

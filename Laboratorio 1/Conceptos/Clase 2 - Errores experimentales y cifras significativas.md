@@ -5,6 +5,8 @@ tags:
   - errores-experimentales
 estado: repasar
 fuente: "Clase 2_Errores.pdf (diapositivas 1-28); Clase 2 - ejemplo errores.pdf"
+tipo: concepto
+asignatura: "Laboratorio 1"
 ---
 
 # Clase 2 — Errores experimentales y cifras significativas
@@ -138,7 +140,7 @@ Pasos:
 
 ## 8. Conexiones y dudas
 
-- **Se relaciona con:** [[Clase 1 - Graficos experimentales]] (barras de error); clase 3 (promedio, dispersión y propagación); reporte del laboratorio del resorte (paralaje y referencia inicial).
+- **Se relaciona con:** [[Clase 1 - Graficos experimentales]] (barras de error); [[Clase 3 - Medidas estadisticas y propagacion de incertidumbres|clase 3]] (promedio, dispersión y propagación); reporte del laboratorio del resorte (paralaje y referencia inicial).
 - **Materiales:** `Clase 2_Errores.pdf` (principal) y `Clase 2 - ejemplo errores.pdf` (ejercicios de redondeo y clasificación).
 - **Dudas pendientes:**
 

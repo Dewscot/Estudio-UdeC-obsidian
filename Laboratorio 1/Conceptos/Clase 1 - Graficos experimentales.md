@@ -5,6 +5,8 @@ tags:
   - graficos
 estado: repasar
 fuente: "Clase 1_Gráficos.pdf (diapositivas 1-19); Clase 1 - ejemplos para graficar a mano.pdf"
+tipo: concepto
+asignatura: "Laboratorio 1"
 ---
 
 # Clase 1 — Gráficos experimentales

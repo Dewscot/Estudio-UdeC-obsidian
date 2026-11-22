@@ -22,3 +22,7 @@ $$
 h=\pm \sqrt{  \frac{2\epsilon{^*}}{h^{2}} }
 $$ 
 lo cual tomamos su valor positivo
+
+## Aplicación relacionada
+
+[[Clase 3 - Medidas estadisticas y propagacion de incertidumbres#3.5. Propagación: deducción con Taylor (diapositiva 22)|Deducción con Taylor en propagación de incertidumbres]].
